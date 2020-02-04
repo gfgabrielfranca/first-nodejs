@@ -9,7 +9,7 @@
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gfgabrielfranca/first-nodejs">
   
-  <a href="https://www.codacy.com/manual/gfgabrielfranca/first-nodejs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gfgabrielfranca/first-nodejs&amp;utm_campaign=Badge_Grade" target="_blank">
+  <a href="https://www.codacy.com/manual/gfgabrielfranca/first-nodejs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gfgabrielfranca/first-nodejs&amp;utm_campaign=Badge_Grade">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/bc2f3eb76cd943939e9b4cff768b3a3f">
   </a>
   
