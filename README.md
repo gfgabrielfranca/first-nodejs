@@ -1,0 +1,2 @@
+# first-nodejs
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/bc2f3eb76cd943939e9b4cff768b3a3f)](https://app.codacy.com/manual/gfgabrielfranca/first-nodejs?utm_source=github.com&utm_medium=referral&utm_content=gfgabrielfranca/first-nodejs&utm_campaign=Badge_Grade_Dashboard)
