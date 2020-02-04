@@ -9,17 +9,17 @@
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/gfgabrielfranca/first-nodejs">
   
-  <a href="https://www.codacy.com/manual/gfgabrielfranca/first-nodejs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gfgabrielfranca/first-nodejs&amp;utm_campaign=Badge_Grade" style="text-decoration: none">
+  <a href="https://www.codacy.com/manual/gfgabrielfranca/first-nodejs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=gfgabrielfranca/first-nodejs&amp;utm_campaign=Badge_Grade" target="_blank">
     <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/bc2f3eb76cd943939e9b4cff768b3a3f">
   </a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gfgabrielfranca/first-nodejs">
 
-  <a href="https://github.com/gfgabrielfranca/first-nodejs/commits/master" style="text-decoration: none">
+  <a href="https://github.com/gfgabrielfranca/first-nodejs/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/gfgabrielfranca/first-nodejs">
   </a>
   
-  <a href="https://github.com/gfgabrielfranca/first-nodejs/issues" style="text-decoration: none">
+  <a href="https://github.com/gfgabrielfranca/first-nodejs/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/gfgabrielfranca/first-nodejs">
   </a>
   
