@@ -41,7 +41,7 @@ This project was developed at the [RocketSeat GoStack Bootcamp](https://rocketse
 - [Nodemon](https://nodemon.io/)
 - [VS Code][vc] with [EditorConfig][vceditconfig] and [ESLint][vceslint]
 
-## :information_source: How To Use
+## 🤔 How To Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v12.14][nodejs] or higher + [Yarn v1.21][yarn] or higher installed on your computer. From your command line:
 
